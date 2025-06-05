@@ -9,7 +9,7 @@ Además, utilizas Swagger para la documentación de la API, lo que permite visua
 
 Contenedor Frontend (React, TypeScript, Bootstrap)
 El contenedor de Frontend es una aplicación construida con Vite, React, TypeScript y Bootstrap.
-Esta aplicación interactúa con la API expuesta por el backend mediante peticiones HTTP (normalmente con Axios o Fetch), presentando los datos al usuario en una interfaz moderna y responsiva.
+Esta aplicación interactúa con la API expuesta por el backend mediante peticiones HTTP, presentando los datos al usuario en una interfaz moderna y responsiva.
 
 Contenedor Base de Datos (SQL Server Linux 2022)
 El contenedor de Base de Datos usa una imagen de SQL Server en Linux 2022.
