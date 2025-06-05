@@ -1,0 +1,21 @@
+{
+  "name": "prueba_tecnica_a3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node initDb.js && node app.js",
+    "dev": "node initDb.js && nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mssql": "^11.0.1",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
